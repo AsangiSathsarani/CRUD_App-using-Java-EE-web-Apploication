@@ -1,0 +1,2 @@
+file 379b202917967ffcef28c496c07f465ff2151c1b chash=f8a079c0f5acd394c010bb81bf5ff511f7930cd1 group=sys mode=0644 owner=root path=glassfish/modules/branding-fragment.jar pkg.csize=2521 pkg.size=3634
+file e3e0c2d03724e25a8c2e387552b4d9b44f770cc9 chash=e3376f7b67a7efbe7d9aeb341143da5679937fa8 group=sys mode=0644 owner=root path=glassfish/lib/upgrade-branding.jar pkg.csize=32574 pkg.size=37380

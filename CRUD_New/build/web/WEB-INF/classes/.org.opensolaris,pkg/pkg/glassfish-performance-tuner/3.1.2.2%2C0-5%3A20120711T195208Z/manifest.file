@@ -1,0 +1,3 @@
+file b89831026214b140b5223f29f7f32fb81fe8a63a chash=8be54268cf0674acc4643faf99ac2c4dae2afceb group=sys mode=0644 owner=root path=glassfish/modules/console-performance-tuner-plugin.jar pkg.csize=42330 pkg.size=48811
+file a0061a0aef84c3be7bb33dbd22fc5381020f9dbd chash=d32a85294145730b7274bbc8e35de92804f3cb9c group=sys mode=0644 owner=root path=glassfish/modules/performance-tuner.jar pkg.csize=67553 pkg.size=76714
+file 82885cd51bd46bcc901234c662049e3adbce17f0 chash=c36484c75f8c19b9571aa7c5dc34cd9df80365fa group=sys mode=0644 owner=root path=glassfish/modules/performance-tuner-extra-jre-packages.jar pkg.csize=2952 pkg.size=3864
